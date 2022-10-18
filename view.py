@@ -4,6 +4,7 @@ from control import Cartao, Usuario
 
 app = Flask(__name__)
 
+
 #Funćao para verificar se o usuario está no BD
 def valida_senha(nome,senha):
     #codigo
