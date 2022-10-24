@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request
 from control import Cartao, Usuario
-
+import qrcode
 
 app = Flask(__name__)
 
