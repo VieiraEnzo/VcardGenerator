@@ -1,4 +1,4 @@
-#!/home/enzo/Documentos/VsCode/Python/Projeto/venv/bin/python3
+#!/home/enzo/Documentos/VsCode/Python/VcardGenerator/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

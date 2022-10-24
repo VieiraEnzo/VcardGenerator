@@ -1,7 +1,3 @@
-from mailbox import NotEmptyError
-from unicodedata import name
-
-
 class Usuario:
     def __init__(self, login, nome_completo, senha,id):
         self.login = login
